@@ -1,2 +1,2 @@
-# FerSite.github.io
+# FerSite
 My Web Site
